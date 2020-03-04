@@ -1,13 +1,13 @@
-# Site settings
-title: Leon Ling's Blog
-SEOTitle: LEON的博客 | LEON's Blog
+﻿# Site settings
+title: lan wei's Blog
+SEOTitle: LANWAY的博客 | LANWAY's Blog
 header-img: img/bg-page-river.jpeg
-email: leonling@ust.hk
+email: 115564098@qq.com
 description: "人的一生总是为了追寻生命中的光，而走在漫长的路上"
-keyword: "leonling, 凌丽阳, LEON's Blog "
-url: "http://liyanglingintel.github.io"          # your host, for absolute URL
+keyword: "lanway, 兰威, LANWAY's Blog "
+url: "http://lanway.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/liyanglingintel/liyanglingintel.github.io" # you code repository
+github_repo: "https://github.com/lanway/lanway.github.io" # you code repository
                            # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -16,11 +16,11 @@ future: true
 # SNS settings
 RSS: false
 weibo_username:     5395966937
-zhihu_username:     lyonling
-github_username:    liyanglingintel
+zhihu_username:     lanway
+github_username:    lanway
 # facebook_username:  lyon.ling.737
 # jianshu_username:   751e67c131d6
-linkedin_username:  liyang-ling-678220117
+# inkedin_username:  liyang-ling-678220117
 
 
 # Footer start year
