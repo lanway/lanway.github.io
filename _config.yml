@@ -97,7 +97,7 @@ ga_domain: auto               # 默认的是 auto, 这里自定义了的域名�
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "知易行难"
-sidebar-avatar: /img/avatar_7.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_7.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
