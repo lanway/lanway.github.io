@@ -15,8 +15,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     5395966937
-zhihu_username:     lanway
+weibo_username:     15151861978
+# zhihu_username:     lanway
 github_username:    lanway
 # facebook_username:  lyon.ling.737
 # jianshu_username:   751e67c131d6

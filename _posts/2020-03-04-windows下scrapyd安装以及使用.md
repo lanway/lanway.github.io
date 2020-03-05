@@ -16,7 +16,7 @@
 
    后来scrapyd-deploy部署的时候失败，就回退到之前的版本	
 
-2. ### 部署scrapyd
+2. ### 部署scrapyd.
 
    在python虚拟环境中找到scrapyd，命令行中输入scrapyd
 
@@ -26,7 +26,7 @@
 
    默认端口为6800，浏览器中访问本地的6800端口可以查看scrapyd的监控界面
 
-![image-20200301231233677](..\img\_post\2020-03-04-windows下scrapyd安装以及使用\image1.png)
+![image-20200301231233677](https://lanway.github.io/img/post/2020-03-04-windows下scrapyd安装以及使用/image1.png)
 
 3. ### scrapyd-client配置
 
@@ -42,7 +42,7 @@
       project = 项目名(创建爬虫项目时使用的名称)
      ```
 
-     <img src="..\img\_post\2020-03-04-windows下scrapyd安装以及使用\\image2.png" alt="image-20200301231735138" style="zoom: 200%;" />
+     <img src="https://lanway.github.io/img/post/2020-03-04-windows下scrapyd安装以及使用/image2.png" alt="image-20200301231735138" style="zoom: 200%;" />
 
    * 部署项目到scrapyd中
 
@@ -55,7 +55,7 @@
 
      部署名就是代码中deploy之后的名字，项目名称就是在scrapy中你想要叫的名字，version是项目的版本。例如：
 
-     <img src="..\img\_post\2020-03-04-windows下scrapyd安装以及使用\\image3.png" alt="image-20200301232150817" style="zoom:200%;" />
+     <img src="https://lanway.github.io/img/post/2020-03-04-windows下scrapyd安装以及使用/image3.png" alt="image-20200301232150817" style="zoom:200%;" />
 
      在window下会出现找不到scrapyd-deploy的情况:
 
